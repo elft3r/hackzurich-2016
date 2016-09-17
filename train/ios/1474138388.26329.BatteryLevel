@@ -1,0 +1,14 @@
+[
+  {
+    "type" : "Battery",
+    "batteryState" : "Unplugged",
+    "batteryLevel" : 0.42,
+    "date" : "2016-09-17T20:51:46.511+02:00"
+  },
+  {
+    "type" : "Battery",
+    "batteryState" : "Unplugged",
+    "batteryLevel" : 0.41,
+    "date" : "2016-09-17T20:53:08.263+02:00"
+  }
+]

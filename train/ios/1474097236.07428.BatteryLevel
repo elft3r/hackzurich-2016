@@ -1,0 +1,14 @@
+[
+  {
+    "type" : "Battery",
+    "batteryState" : "Charging",
+    "batteryLevel" : 0.61,
+    "date" : "2016-09-17T09:25:53.450+02:00"
+  },
+  {
+    "type" : "Battery",
+    "batteryState" : "Charging",
+    "batteryLevel" : 0.62,
+    "date" : "2016-09-17T09:27:16.074+02:00"
+  }
+]
