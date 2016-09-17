@@ -3,7 +3,7 @@ import BarometerChart from './BarometerChart'
 
 class AppRoot extends React.Component {
 	render() {
-		return <div class="mdl-grid">
+		return <div className="mdl-grid">
 				<BarometerChart />
 			</div>
 	}
