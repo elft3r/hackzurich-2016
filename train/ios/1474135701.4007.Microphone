@@ -1,0 +1,608 @@
+[
+  {
+    "peakPower" : -6.737798,
+    "averagePower" : -14.86151,
+    "date" : "2016-09-17T20:08:11.093+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -6.737798,
+    "averagePower" : -14.86151,
+    "date" : "2016-09-17T20:08:11.101+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -6.737798,
+    "averagePower" : -17.49477,
+    "date" : "2016-09-17T20:08:11.292+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -6.737798,
+    "averagePower" : -17.73431,
+    "date" : "2016-09-17T20:08:11.311+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -6.737798,
+    "averagePower" : -18.39015,
+    "date" : "2016-09-17T20:08:11.492+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -6.737798,
+    "averagePower" : -18.39799,
+    "date" : "2016-09-17T20:08:11.511+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -7.295798,
+    "averagePower" : -16.11926,
+    "date" : "2016-09-17T20:08:11.692+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -8.409798,
+    "averagePower" : -17.08767,
+    "date" : "2016-09-17T20:08:11.728+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -9.633166,
+    "averagePower" : -15.86,
+    "date" : "2016-09-17T20:08:11.892+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -9.633166,
+    "averagePower" : -16.45296,
+    "date" : "2016-09-17T20:08:11.931+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -9.633166,
+    "averagePower" : -18.90326,
+    "date" : "2016-09-17T20:08:12.092+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -9.633166,
+    "averagePower" : -19.42888,
+    "date" : "2016-09-17T20:08:12.132+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -9.633166,
+    "averagePower" : -22.36565,
+    "date" : "2016-09-17T20:08:12.292+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -9.633166,
+    "averagePower" : -20.53348,
+    "date" : "2016-09-17T20:08:12.308+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -9.633166,
+    "averagePower" : -18.36628,
+    "date" : "2016-09-17T20:08:12.441+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -9.633166,
+    "averagePower" : -21.48839,
+    "date" : "2016-09-17T20:08:12.591+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -9.633166,
+    "averagePower" : -22.00334,
+    "date" : "2016-09-17T20:08:12.661+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -9.633166,
+    "averagePower" : -23.42315,
+    "date" : "2016-09-17T20:08:12.793+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -14.09117,
+    "averagePower" : -22.49048,
+    "date" : "2016-09-17T20:08:12.991+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -15.76317,
+    "averagePower" : -23.04,
+    "date" : "2016-09-17T20:08:13.062+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -13.80409,
+    "averagePower" : -21.77471,
+    "date" : "2016-09-17T20:08:13.191+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.60565,
+    "averagePower" : -20.60807,
+    "date" : "2016-09-17T20:08:13.261+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.60565,
+    "averagePower" : -19.34136,
+    "date" : "2016-09-17T20:08:13.341+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.60565,
+    "averagePower" : -19.22167,
+    "date" : "2016-09-17T20:08:13.491+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.60565,
+    "averagePower" : -19.53533,
+    "date" : "2016-09-17T20:08:13.541+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.60565,
+    "averagePower" : -21.24333,
+    "date" : "2016-09-17T20:08:13.691+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.60565,
+    "averagePower" : -18.59551,
+    "date" : "2016-09-17T20:08:13.761+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.60565,
+    "averagePower" : -20.17238,
+    "date" : "2016-09-17T20:08:13.841+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.60565,
+    "averagePower" : -21.10191,
+    "date" : "2016-09-17T20:08:13.941+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.60565,
+    "averagePower" : -23.89174,
+    "date" : "2016-09-17T20:08:14.041+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -13.71965,
+    "averagePower" : -22.2472,
+    "date" : "2016-09-17T20:08:14.191+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -15.39165,
+    "averagePower" : -23.32553,
+    "date" : "2016-09-17T20:08:14.261+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.54709,
+    "averagePower" : -19.17987,
+    "date" : "2016-09-17T20:08:14.391+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.54709,
+    "averagePower" : -20.6728,
+    "date" : "2016-09-17T20:08:14.441+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.54709,
+    "averagePower" : -19.62344,
+    "date" : "2016-09-17T20:08:14.541+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.54709,
+    "averagePower" : -22.79865,
+    "date" : "2016-09-17T20:08:14.691+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.54709,
+    "averagePower" : -24.48545,
+    "date" : "2016-09-17T20:08:14.760+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.54709,
+    "averagePower" : -25.91217,
+    "date" : "2016-09-17T20:08:14.891+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.54709,
+    "averagePower" : -26.55708,
+    "date" : "2016-09-17T20:08:14.941+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.54709,
+    "averagePower" : -24.15916,
+    "date" : "2016-09-17T20:08:15.090+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.54709,
+    "averagePower" : -18.31244,
+    "date" : "2016-09-17T20:08:15.181+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.10509,
+    "averagePower" : -21.12495,
+    "date" : "2016-09-17T20:08:15.290+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -13.21909,
+    "averagePower" : -22.0935,
+    "date" : "2016-09-17T20:08:15.340+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -17.12109,
+    "averagePower" : -24.41641,
+    "date" : "2016-09-17T20:08:15.490+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -15.04091,
+    "averagePower" : -21.51952,
+    "date" : "2016-09-17T20:08:15.540+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -13.85371,
+    "averagePower" : -21.10888,
+    "date" : "2016-09-17T20:08:15.690+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -13.85371,
+    "averagePower" : -22.47301,
+    "date" : "2016-09-17T20:08:15.774+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -13.7228,
+    "averagePower" : -20.98586,
+    "date" : "2016-09-17T20:08:15.890+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -13.7228,
+    "averagePower" : -21.38414,
+    "date" : "2016-09-17T20:08:15.927+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -13.7228,
+    "averagePower" : -20.45208,
+    "date" : "2016-09-17T20:08:16.090+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -13.7228,
+    "averagePower" : -19.44326,
+    "date" : "2016-09-17T20:08:16.181+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -13.7228,
+    "averagePower" : -20.80688,
+    "date" : "2016-09-17T20:08:16.293+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -13.7228,
+    "averagePower" : -24.21693,
+    "date" : "2016-09-17T20:08:16.490+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -13.7228,
+    "averagePower" : -26.00336,
+    "date" : "2016-09-17T20:08:16.590+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -13.7228,
+    "averagePower" : -21.59107,
+    "date" : "2016-09-17T20:08:16.690+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -15.3948,
+    "averagePower" : -23.84683,
+    "date" : "2016-09-17T20:08:16.790+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -17.55136,
+    "averagePower" : -23.65767,
+    "date" : "2016-09-17T20:08:16.890+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -14.92988,
+    "averagePower" : -20.44995,
+    "date" : "2016-09-17T20:08:16.991+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -14.92988,
+    "averagePower" : -22.04753,
+    "date" : "2016-09-17T20:08:17.061+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -14.92988,
+    "averagePower" : -20.4271,
+    "date" : "2016-09-17T20:08:17.191+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -14.92988,
+    "averagePower" : -22.3174,
+    "date" : "2016-09-17T20:08:17.261+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.65975,
+    "averagePower" : -18.73001,
+    "date" : "2016-09-17T20:08:17.391+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.65975,
+    "averagePower" : -19.71564,
+    "date" : "2016-09-17T20:08:17.456+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.65975,
+    "averagePower" : -22.40342,
+    "date" : "2016-09-17T20:08:17.591+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.65975,
+    "averagePower" : -20.57751,
+    "date" : "2016-09-17T20:08:17.661+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.65975,
+    "averagePower" : -23.72478,
+    "date" : "2016-09-17T20:08:17.791+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.65975,
+    "averagePower" : -23.61641,
+    "date" : "2016-09-17T20:08:17.861+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.65975,
+    "averagePower" : -22.99459,
+    "date" : "2016-09-17T20:08:17.992+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.65975,
+    "averagePower" : -23.23004,
+    "date" : "2016-09-17T20:08:18.031+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.65975,
+    "averagePower" : -21.79252,
+    "date" : "2016-09-17T20:08:18.194+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -14.88975,
+    "averagePower" : -24.66578,
+    "date" : "2016-09-17T20:08:18.391+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -16.56175,
+    "averagePower" : -25.4101,
+    "date" : "2016-09-17T20:08:18.454+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -19.34775,
+    "averagePower" : -26.61564,
+    "date" : "2016-09-17T20:08:18.591+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -21.57575,
+    "averagePower" : -25.60514,
+    "date" : "2016-09-17T20:08:18.662+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -20.90876,
+    "averagePower" : -24.4023,
+    "date" : "2016-09-17T20:08:18.791+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.10456,
+    "averagePower" : -17.33494,
+    "date" : "2016-09-17T20:08:18.860+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.10456,
+    "averagePower" : -21.81264,
+    "date" : "2016-09-17T20:08:18.991+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.10456,
+    "averagePower" : -23.3335,
+    "date" : "2016-09-17T20:08:19.069+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.10456,
+    "averagePower" : -25.4383,
+    "date" : "2016-09-17T20:08:19.191+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.10456,
+    "averagePower" : -27.26306,
+    "date" : "2016-09-17T20:08:19.270+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.10456,
+    "averagePower" : -24.97024,
+    "date" : "2016-09-17T20:08:19.392+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.10456,
+    "averagePower" : -25.17899,
+    "date" : "2016-09-17T20:08:19.422+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.10456,
+    "averagePower" : -27.60404,
+    "date" : "2016-09-17T20:08:19.591+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.10456,
+    "averagePower" : -24.16468,
+    "date" : "2016-09-17T20:08:19.641+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -12.21856,
+    "averagePower" : -25.32182,
+    "date" : "2016-09-17T20:08:19.790+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -14.44856,
+    "averagePower" : -27.01908,
+    "date" : "2016-09-17T20:08:19.888+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -17.23456,
+    "averagePower" : -24.82901,
+    "date" : "2016-09-17T20:08:19.991+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -17.79056,
+    "averagePower" : -25.06425,
+    "date" : "2016-09-17T20:08:20.021+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -18.70961,
+    "averagePower" : -24.08336,
+    "date" : "2016-09-17T20:08:20.171+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.15276,
+    "averagePower" : -14.74523,
+    "date" : "2016-09-17T20:08:20.292+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.15276,
+    "averagePower" : -14.90896,
+    "date" : "2016-09-17T20:08:20.310+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -11.15276,
+    "averagePower" : -17.12474,
+    "date" : "2016-09-17T20:08:20.421+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -10.22466,
+    "averagePower" : -18.34928,
+    "date" : "2016-09-17T20:08:20.521+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -10.22466,
+    "averagePower" : -18.28287,
+    "date" : "2016-09-17T20:08:20.691+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -10.22466,
+    "averagePower" : -20.0043,
+    "date" : "2016-09-17T20:08:20.766+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -10.22466,
+    "averagePower" : -22.20824,
+    "date" : "2016-09-17T20:08:20.871+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -10.22466,
+    "averagePower" : -22.69858,
+    "date" : "2016-09-17T20:08:20.921+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -10.22466,
+    "averagePower" : -25.15945,
+    "date" : "2016-09-17T20:08:21.091+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -10.22466,
+    "averagePower" : -23.20898,
+    "date" : "2016-09-17T20:08:21.163+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -10.22466,
+    "averagePower" : -23.54737,
+    "date" : "2016-09-17T20:08:21.271+02:00",
+    "type" : "Microphone"
+  },
+  {
+    "peakPower" : -10.22466,
+    "averagePower" : -21.67549,
+    "date" : "2016-09-17T20:08:21.392+02:00",
+    "type" : "Microphone"
+  }
+]
