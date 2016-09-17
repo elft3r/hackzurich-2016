@@ -1,14 +1,19 @@
 import _ from 'underscore'
+import DateFormat from 'dateformat'
 
 var getStartDate = function() {
 	return new Date(_.first(getData())["date"]);
 }
 
 var streamData = function(time) {
-	return _.filter(getData(), function(val) {
-		return new Date(val["date"]) < time;
-	});
-
+	return _.chain(getData())
+		.filter(function(val) {
+			return new Date(val["date"]) < time;
+		})
+		.map(function(val) {
+			val["dateLabel"] = DateFormat(val["date"], "h:MM:ss")
+			return val
+		}).value();
 }
 
 var getData = function() {

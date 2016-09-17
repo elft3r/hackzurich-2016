@@ -25,15 +25,15 @@ class BarometerChart extends React.Component {
 
 	render() {
 		return (
-			<div class="mdl-cell mdl-cell--6-col" >
+			<div className="mdl-cell mdl-cell--6-col">
 				<LineChart width={600} height={300} data={this.state.barometerData}
 					margin={{top: 5, right: 30, left: 20, bottom: 5}}>
-				<XAxis dataKey="date"/>
+				<XAxis dataKey="dateLabel"/>
 				<YAxis/>
 				<CartesianGrid strokeDasharray="3 3"/>
 				<Tooltip/>
-				<Legend />
-				<Line type="monotone" isAnimationActive={false} dataKey="pressure" stroke="#8884d8" activeDot={{r: 8}}/>
+				<Legend verticalAlign="top" height={36}/>
+				<Line type="monotone" isAnimationActive={false} name="Air Pressure" dataKey="pressure" stroke="#8884d8" activeDot={{r: 8}}/>
 				</LineChart>
 			</div>
 		);

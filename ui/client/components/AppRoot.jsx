@@ -4,13 +4,14 @@ import ElevatorBarChart from './ElevatorBarChart'
 
 class AppRoot extends React.Component {
 	render() {
-		return <div><div className="mdl-grid">
+		return <div>
+			<div className="mdl-grid">
 				<BarometerChart />
 			</div>
 			<div className="mdl-grid">
 				<ElevatorBarChart />
 			</div>
-			</div>
+		</div>
 	}
 }
 
