@@ -48,7 +48,7 @@ def get_sensor_data(device_dict, device, sensor):
 
     target_sensor_data = []
     for v in target_dict_list:
-        if v['type'] == sensor:
+        if 'type' in v and v['type'] == sensor:
             target_sensor_data.append(v)
     return target_sensor_data
 
@@ -57,14 +57,18 @@ def get_device_sensor_tables(device_dict, devices, sensor='Barometer'):
     device_data = {}
     for d in devices:
         temp_data = get_sensor_data(device_dict, d, sensor)
-
+        print "[%s] Found temp data with size %d" % (d, len(temp_data))
         df = pd.DataFrame(temp_data)
-        df = df.set_index(pd.DatetimeIndex(df['date']))
-        df = df.dropna()
-        if sensor == 'Barometer':
-            device_data[d] = df.resample('1s').mean().interpolate()
-        else:
-            raise NameError("Sensor type %s not found" % sensor)
+        print df
+        if 'date' in df:
+            print "[%s] Temp data with date" % d
+            df = df.dropna()
+            df = df.set_index(pd.DatetimeIndex(df['date']))
+            if sensor == 'Barometer':
+                print "[%s] Found barometer."
+                device_data[d] = df.resample('1s').mean().interpolate()
+            else:
+                raise NameError("Sensor type %s not found" % sensor)
     return device_data
 
 
@@ -92,15 +96,19 @@ def label_levels(date_start, date_end, df_baro):
 input = read_json_file(file)
 df_devices = get_device_sensor_tables(input, input.keys())
 
+print "Devices: %s" % input.keys()
+print "Devices refound: %s" % df_devices.keys()
 date_start = '2016-09-17 09:13'
 date_end = '2016-09-17 09:19'
 output = []
 for d in input:
-    change_points = label_levels(date_start, date_end, df_devices[d])
-    for date, level in change_points.iteritems():
-        output.append({"date": date.strftime('%Y-%m-%dt%H:%M:%S'), "name": d, "floor": level})
+    if d in df_devices:
+        print "Processing %s" % d
+        change_points = label_levels(date_start, date_end, df_devices[d])
+        for date, level in change_points.iteritems():
+            output.append({"date": date.strftime('%Y-%m-%dt%H:%M:%S'), "name": d, "floor": level})
 
-with open('../../data/elavator.json', 'w') as outfile:
+with open('../../data/elavator_part_big.json', 'w') as outfile:
     json.dump(output, outfile)
 
 
