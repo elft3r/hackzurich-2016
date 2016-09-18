@@ -15,7 +15,7 @@ tick() {
 	//replayDate.setSeconds(this.state.replayDate.getSeconds() + 1);
 	var d = new Date(this.state.replayDate);
 	this.setState({ elevatorData: Elevators.streamData(this.state.replayDate),
-		replayDate: d.setSeconds(d.getSeconds() + 2)});
+		replayDate: d.setSeconds(d.getSeconds() + 10)});
 }
 
 componentDidMount() {
