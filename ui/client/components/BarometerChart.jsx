@@ -15,7 +15,7 @@ class BarometerChart extends React.Component {
 		//replayDate.setSeconds(this.state.replayDate.getSeconds() + 1);
 		var d = new Date(this.state.replayDate);
 		this.setState({ barometerData: Barometer.streamData(this.state.replayDate),
-			replayDate: d.setSeconds(d.getSeconds() + 2)});
+			replayDate: d.setSeconds(d.getSeconds() + 10)});
 	}
 
 	componentDidMount() {
