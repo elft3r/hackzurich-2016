@@ -24,8 +24,13 @@ class BarometerChart extends React.Component {
 	}
 
 	render() {
+		var lastActivity  = "";
+		if (this.state.barometerData.length > 0) {
+			lastActivity = this.state.barometerData[this.state.barometerData.length -1].activity;
+		}
 		return (
 			<div className="mdl-cell mdl-cell--6-col">
+				<b>{lastActivity}</b>
 				<LineChart width={600} height={300} data={this.state.barometerData}
 					margin={{top: 5, right: 30, left: 20, bottom: 5}}>
 				<XAxis dataKey="dateLabel"/>
