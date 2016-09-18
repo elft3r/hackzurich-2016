@@ -4,6 +4,10 @@ var getStartDate = function() {
 	return new Date(_.first(getData())[0]["date"]);
 }
 
+var getEndDate = function() {
+	return new Date(_.last(getData())[0]["date"]);
+}
+
 var streamData = function(time) {
 	return  _.chain(getData())
 		.filter(function(val) {
@@ -1079,6 +1083,7 @@ var getData = function() {
 
 	export default {
 		getData: getData,
+		getEndDate: getEndDate,
 		streamData: streamData,
 		getStartDate: getStartDate
 	} 
