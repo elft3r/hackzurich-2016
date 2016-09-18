@@ -38,7 +38,7 @@ class BarometerChart extends React.Component {
 				<CartesianGrid strokeDasharray="3 3"/>
 				<Tooltip/>
 				<Legend verticalAlign="top" height={36}/>
-				<Line type="monotone" isAnimationActive={false} name="Air Pressure" dataKey="pressure" stroke="#8884d8" activeDot={{r: 8}}/>
+				<Line type="monotone" isAnimationActive={false} name="Relative Altitude" dataKey="pressure" stroke="#8884d8" activeDot={{r: 8}}/>
 				</LineChart>
 			</div>
 		);
