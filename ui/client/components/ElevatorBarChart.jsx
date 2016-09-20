@@ -19,9 +19,6 @@ class ElevatorBarChart extends React.Component {
 		}
 		this.setState({ elevatorData: Elevators.streamData(this.state.replayDate),
 			replayDate: d.setSeconds(d.getSeconds() + 10)});
-
-
-
 	}
 
 	componentDidMount() {
@@ -30,8 +27,13 @@ class ElevatorBarChart extends React.Component {
 	}
 
 	render() {
+		var center = {
+			textAlign: "center"
+		}
+
 		return (
 			<div className="mdl-cell mdl-cell--6-col" >
+				<p style={center}>The current position of the elevators</p>
 				<BarChart width={800} height={400} data={this.state.elevatorData}
 					margin={{top: 5, right: 30, left: 20, bottom: 5}}>
 					<XAxis dataKey="name"/>
